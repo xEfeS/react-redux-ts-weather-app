@@ -1,5 +1,3 @@
-deploy: https://xefes.github.io/react-redux-ts-weather-app/
-
 # react-redux-ts-weather-app
 Deploy: https://xefes.github.io/react-redux-ts-weather-app/
 
